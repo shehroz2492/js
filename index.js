@@ -38,3 +38,5 @@ bmw.showDetails()
   } }
    let merc = new mercedes ("MERCEDES","C210","ENGINE","5555","MATTE BLACK")     
    merc.showDetails()
+   let aui = new mercedes ("MERCEDES","c340","ENGINE","5555","matte red")     
+   aui.showDetails()
